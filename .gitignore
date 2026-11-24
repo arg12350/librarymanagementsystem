@@ -1,0 +1,14 @@
+# Compiled output
+out/
+*.class
+
+# Runtime serialized library data
+library-data.ser
+library-data.ser.corrupt
+
+# IDE / OS files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
